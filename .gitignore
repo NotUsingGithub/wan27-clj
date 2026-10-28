@@ -1,0 +1,8 @@
+.cpcache/
+.nrepl-port
+.calva/
+.lsp/
+.clj-kondo/
+target/classes/
+pom.xml.asc
+*.jar.asc
